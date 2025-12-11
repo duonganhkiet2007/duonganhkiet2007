@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**duonganhkiet2007/duonganhkiet2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Name: Duong Anh Kiet
+Nickname: Kazuto
+University: UIT - University of Information Technology 
+Field of study: Computer Science ( Honor Programme )
+Hometown: Hong Ngu, Dong Thap Province, Vietnam
+Relationship status: Single
+Hobby: Travel, Listen to music, Playing game...
+Best Achievements:
+  + Consolation Prize in the National Excellent Student Competition in Informatics
+  + First Prize in the Provincial Excellent Student Competition in Informatics
+  + Second Prize in the Provincial Youth Informatics Contest
+  + Silver Medal – Provincial-Level Chess
+  + Gold Medal – District/City-Level Chess
+COntact: kiet1phu@gmail.com
