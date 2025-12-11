@@ -11,4 +11,4 @@ Best Achievements:
   + Second Prize in the Provincial Youth Informatics Contest
   + Silver Medal – Provincial-Level Chess
   + Gold Medal – District/City-Level Chess
-COntact: kiet1phu@gmail.com
+Contact: kiet1phu@gmail.com
